@@ -1,0 +1,17 @@
+{
+  "name": "@rapa/prettier-config",
+  "version": "0.0.2",
+  "description": "rapa's base Prettier config",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "gitHead": "f53f9756bb13c8dce7bf9a1e1d920496b72c6316"
+}
