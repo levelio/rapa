@@ -1,5 +1,5 @@
 {
-  "name": "@rapa/ppu-monorepo",
+  "name": "@rapa/rapa-monorepo",
   "private": true,
   "version": "0.0.1",
   "author": "chord",
@@ -14,8 +14,6 @@
   "scripts": {
     "test": "lerna run test --stream",
     "build": "lerna run build --stream",
-    "lint": "web-scripts lint --ignore-path .gitignore",
-    "commit": "web-scripts commit",
     "bootstrap": "lerna bootstrap --use-workspaces"
   },
   "devDependencies": {

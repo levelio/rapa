@@ -2,11 +2,7 @@
   "name": "@rapa/tsconfig",
   "version": "0.0.3",
   "license": "MIT",
-  "description": "Common tsconfig to be used as your base configurations",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spotify/web-scripts.git"
-  },
+  "description": "Common tsconfig to be used as your base configurations"
   "files": [
     "tsconfig.*.json"
   ],
