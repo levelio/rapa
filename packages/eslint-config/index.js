@@ -4,9 +4,9 @@ module.exports = {
         "./eslint-config-react.js",
         "./eslint-config-typescript.js",
         "prettier",
-        "prettier/@typescript-eslint",
+        "prettier/@typescript-eslint-config",
     ],
-    parser: '@typescript-eslint/parser',
+    parser: '@typescript-eslint-config/parser',
     env: {
         jest: true,
     },

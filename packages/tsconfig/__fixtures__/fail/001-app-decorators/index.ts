@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-config-disable */
 
 function sealed(constructor: Function) {
     Object.seal(constructor)
