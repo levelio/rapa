@@ -1,0 +1,27 @@
+{
+  "name": "@rapa/eslint",
+  "version": "0.0.3",
+  "description": "eslint config",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "eslint-config-react.js",
+    "eslint-config-typescript.js",
+    "eslint-config-base/index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint": "^6.2.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "@rapa/tsconfig",
   "version": "0.0.3",
   "license": "MIT",
-  "description": "Common tsconfig to be used as your base configurations"
+  "description": "Common tsconfig to be used as your base configurations",
   "files": [
     "tsconfig.*.json"
   ],
