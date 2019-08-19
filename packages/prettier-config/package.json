@@ -1,6 +1,6 @@
 {
   "name": "@rapa/prettier-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "rapa's base Prettier config",
   "main": "index.js",
   "license": "MIT",
