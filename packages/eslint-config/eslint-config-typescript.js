@@ -1,9 +1,9 @@
 module.exports = {
-    parser: '@typescript-eslint-config/parser',
+    parser: '@typescript-eslint/parser',
     parserOptions: {
         sourceType: 'module',
     },
-    plugins: ['@typescript-eslint-config'],
+    plugins: ['@typescript-eslint'],
     // camelcase, indent, no-array-constructor, and no-unused-vars are all
     // busted when using TypeScript at the moment. When you use this plugin, you're
     // forced to turn off the base rules from ESLint and turn on the TypeScript-friendly
