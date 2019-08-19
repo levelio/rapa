@@ -1,6 +1,6 @@
 {
   "name": "@rapa/tsconfig",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "Common tsconfig to be used as your base configurations",
   "files": [
