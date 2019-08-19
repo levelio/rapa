@@ -2,12 +2,12 @@
   "name": "@rapa/eslint-config",
   "version": "0.0.5",
   "description": "eslint config",
-  "main": "index.js",
   "files": [
-    "index.js",
-    "./eslint-config-base/index.js",
-    "./eslint-config-react.js",
-    "./eslint-config-typescript.js"
+    "eslint-config-common.js",
+    "eslint-config-es5.js",
+    "eslint-config-es6.js",
+    "eslint-config-react.js",
+    "eslint-config-typescript.js"
   ],
   "license": "MIT",
   "dependencies": {

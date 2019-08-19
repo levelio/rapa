@@ -1,6 +1,7 @@
 module.exports = {
     extends: [
-        "./eslint-config-base/index.js",
+        "./eslint-config-es5.js",
+        "./eslint-config-es6.js",
         "./eslint-config-react.js",
         "./eslint-config-typescript.js",
         "prettier",
