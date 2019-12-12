@@ -10,7 +10,7 @@
     "test": "./run-tests.sh"
   },
   "devDependencies": {
-    "typescript": "^3.5.3"
+    "typescript": "^3.7.3"
   },
   "publishConfig": {
     "access": "public"
@@ -18,5 +18,8 @@
   "engines": {
     "node": ">=10"
   },
-  "gitHead": "f53f9756bb13c8dce7bf9a1e1d920496b72c6316"
+  "gitHead": "f53f9756bb13c8dce7bf9a1e1d920496b72c6316",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  }
 }
